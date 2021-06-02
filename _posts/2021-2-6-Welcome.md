@@ -1,6 +1,6 @@
-layout: page
-title: Finally
-permalink: /posts/
-date: 2021-06-2
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
 
 Hello Welcome to my Blog
