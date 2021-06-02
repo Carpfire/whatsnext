@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to what's next a brain dump for myself in the form of a blog
 
 You can use the [editor on GitHub](https://github.com/Carpfire/whatsnext/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
