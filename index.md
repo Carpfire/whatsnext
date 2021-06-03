@@ -3,7 +3,7 @@ Here at what's next we like to believe that doing is better than observing. A pi
 
 
 Were just gonna list posts in the Jankiest possible format for a while while I figure stuff out.
-1. [Janky Blog](_posts/2021-06-02-JankyBlog)
+1. [Janky Blog](2021-06-02-JankyBlog)
 
 
 
